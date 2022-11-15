@@ -1,0 +1,17 @@
+textarea{
+    width:80%;
+    display: block;
+    height: 20vh;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#txt-output{
+    width: 80.5%;
+    height: 20vh;
+    display: block;
+    background-color: brown;
+    margin: 1rem;
+    padding: 1rem;
+    color: white;
+}
